@@ -1,0 +1,33 @@
+.box {
+    width: auto;
+    height: 100px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.white {
+    background-color: white;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.beige {
+    background-color: beige;
+}
+
+.black {
+    background-color: black;
+}
+
